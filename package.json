@@ -1,0 +1,28 @@
+{
+  "name": "virtual-dom-lite",
+  "version": "1.0.0",
+  "description": "A light-weight virtual DOM library.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osnth01/virtual-dom-lite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osnth01/virtual-dom-lite/issues"
+  },
+  "homepage": "https://github.com/osnth01/virtual-dom-lite#readme",
+  "devDependencies": {
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^0.8.2",
+    "typescript": "^2.0.3",
+    "typings": "^1.4.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.1"
+  }
+}
